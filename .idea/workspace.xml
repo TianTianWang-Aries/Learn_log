@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="efa3666c-2857-4bed-8dbf-3c5657bf7328" name="Default Changelist" comment="实现网页的基本功能">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/6eb5f560-7e67-464e-a64a-1da1c8278506.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/6eb5f560-7e67-464e-a64a-1da1c8278506/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/b458019d-fe2d-47a6-ab6a-6f146d910b24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/learning_log.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="learn_log@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="learning_log" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/learning_logs" />
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/TianTianWang-Aries/Learning_log.git" />
+      </set>
+    </option>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1V1UiJVTs7vj5MhjLtUmAS6pdGh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="sqlite&#10;mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/learning_logs/templates/learning_logs" />
+      <recent name="$PROJECT_DIR$/learning_logs/templates" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/learning_logs" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Django server.learning_log">
+    <configuration name="admin" type="PythonConfigurationType" factoryName="Python">
+      <module name="learning_log" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learning_logs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learning_logs/admin.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="learning_log" type="Python.DjangoServer" factoryName="Django server">
+      <module name="learning_log" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="learning_log.settings" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/miniconda3/envs/python_36/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="localhost" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="http://localhost:8000/" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="efa3666c-2857-4bed-8dbf-3c5657bf7328" name="Default Changelist" comment="" />
+      <created>1576420220296</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576420220296</updated>
+      <workItem from="1576420223607" duration="3979000" />
+      <workItem from="1576593356537" duration="1350000" />
+      <workItem from="1577026775992" duration="497000" />
+      <workItem from="1577109477145" duration="198000" />
+      <workItem from="1577200173748" duration="2879000" />
+      <workItem from="1577204779222" duration="444000" />
+      <workItem from="1577247482767" duration="2274000" />
+      <workItem from="1577371800023" duration="3638000" />
+      <workItem from="1577425912576" duration="5164000" />
+      <workItem from="1577623359511" duration="1197000" />
+      <workItem from="1577960523793" duration="644000" />
+      <workItem from="1578290425561" duration="1218000" />
+      <workItem from="1578635417100" duration="1769000" />
+      <workItem from="1579160847158" duration="4770000" />
+      <workItem from="1579333062197" duration="441000" />
+      <workItem from="1579344172874" duration="2399000" />
+      <workItem from="1579428187558" duration="1108000" />
+      <workItem from="1579504877481" duration="3753000" />
+      <workItem from="1583128649221" duration="1073000" />
+      <workItem from="1583326590094" duration="545000" />
+      <workItem from="1583327171165" duration="870000" />
+      <workItem from="1583333036496" duration="82000" />
+      <workItem from="1583333334209" duration="24000" />
+      <workItem from="1583333388884" duration="4000" />
+      <workItem from="1583333583937" duration="11000" />
+      <workItem from="1583336304895" duration="610000" />
+      <workItem from="1583401157614" duration="596000" />
+      <workItem from="1583651396498" duration="2684000" />
+      <workItem from="1583811844765" duration="683000" />
+      <workItem from="1583814641288" duration="3209000" />
+      <workItem from="1583934675647" duration="512000" />
+      <workItem from="1583981154972" duration="1269000" />
+      <workItem from="1584098214981" duration="569000" />
+      <workItem from="1584169952342" duration="596000" />
+      <workItem from="1584360687091" duration="8691000" />
+      <workItem from="1584421136779" duration="4193000" />
+      <workItem from="1584601778018" duration="4291000" />
+      <workItem from="1584613011572" duration="51000" />
+      <workItem from="1584613063320" duration="6000" />
+      <workItem from="1584613086060" duration="327000" />
+      <workItem from="1584613468781" duration="1739000" />
+      <workItem from="1584615499150" duration="2394000" />
+      <workItem from="1584623184740" duration="5701000" />
+      <workItem from="1584669753121" duration="13533000" />
+      <workItem from="1584942649190" duration="14653000" />
+      <workItem from="1584972969315" duration="547000" />
+    </task>
+    <task id="LOCAL-00001" summary="...">
+      <created>1584437614214</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584437614214</updated>
+    </task>
+    <task id="LOCAL-00002" summary="11">
+      <created>1584615522818</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584615522818</updated>
+    </task>
+    <task id="LOCAL-00003" summary="创建网页">
+      <created>1584953993569</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1584953993569</updated>
+    </task>
+    <task id="LOCAL-00004" summary="实现网页的基本功能">
+      <created>1584969980715</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1584969980716</updated>
+    </task>
+    <task id="LOCAL-00005" summary="实现网页的基本功能">
+      <created>1584972466915</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1584972466915</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/learning_log" />
+      <path value="$PROJECT_DIR$/learning_log/learning_logs" />
+    </ignored-roots>
+    <MESSAGE value="..." />
+    <MESSAGE value="11" />
+    <MESSAGE value="创建网页" />
+    <MESSAGE value="实现网页的基本功能" />
+    <option name="LAST_COMMIT_MESSAGE" value="实现网页的基本功能" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="274" y="72" key="#HTTP_Proxy" timestamp="1584374317013">
+      <screen x="0" y="23" width="1280" height="735" />
+    </state>
+    <state x="274" y="72" key="#HTTP_Proxy/0.23.1280.735@0.23.1280.735" timestamp="1584374317013" />
+    <state x="436" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584625983870">
+      <screen x="0" y="23" width="1280" height="735" />
+    </state>
+    <state x="436" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.735@0.23.1280.735" timestamp="1584625983870" />
+    <state x="335" y="23" width="669" height="735" key="#learning_log" timestamp="1584616848687">
+      <screen x="0" y="23" width="1280" height="735" />
+    </state>
+    <state x="335" y="23" width="669" height="735" key="#learning_log/0.23.1280.735@0.23.1280.735" timestamp="1584616848687" />
+    <state x="262" y="23" key="CommitChangelistDialog2" timestamp="1584973323378">
+      <screen x="0" y="23" width="1280" height="735" />
+    </state>
+    <state x="262" y="23" key="CommitChangelistDialog2/0.23.1280.735@0.23.1280.735" timestamp="1584973323378" />
+    <state x="525" y="155" key="EnvironmentVariablesDialog" timestamp="1584616786044">
+      <screen x="0" y="23" width="1280" height="735" />
+    </state>
+    <state x="525" y="155" key="EnvironmentVariablesDialog/0.23.1280.735@0.23.1280.735" timestamp="1584616786044" />
+    <state x="477" y="317" key="Github.CreateGistDialog" timestamp="1584972610912">
+      <screen x="0" y="23" width="1280" height="735" />
+    </state>
+    <state x="477" y="317" key="Github.CreateGistDialog/0.23.1280.735@0.23.1280.735" timestamp="1584972610912" />
+    <state x="534" y="298" width="271" height="281" key="Github.ShareDialog" timestamp="1584973161331">
+      <screen x="0" y="23" width="1280" height="735" />
+    </state>
+    <state x="534" y="298" width="271" height="281" key="Github.ShareDialog/0.23.1280.735@0.23.1280.735" timestamp="1584973161331" />
+    <state width="1201" height="135" key="GridCell.Tab.0.bottom" timestamp="1584972750586">
+      <screen x="0" y="23" width="1280" height="735" />
+    </state>
+    <state width="1201" height="135" key="GridCell.Tab.0.bottom/0.23.1280.735@0.23.1280.735" timestamp="1584972750586" />
+    <state width="1201" height="135" key="GridCell.Tab.0.center" timestamp="1584972750585">
+      <screen x="0" y="23" width="1280" height="735" />
+    </state>
+    <state width="1201" height="135" key="GridCell.Tab.0.center/0.23.1280.735@0.23.1280.735" timestamp="1584972750585" />
+    <state width="1201" height="135" key="GridCell.Tab.0.left" timestamp="1584972750584">
+      <screen x="0" y="23" width="1280" height="735" />
+    </state>
+    <state width="1201" height="135" key="GridCell.Tab.0.left/0.23.1280.735@0.23.1280.735" timestamp="1584972750584" />
+    <state width="1201" height="135" key="GridCell.Tab.0.right" timestamp="1584972750585">
+      <screen x="0" y="23" width="1280" height="735" />
+    </state>
+    <state width="1201" height="135" key="GridCell.Tab.0.right/0.23.1280.735@0.23.1280.735" timestamp="1584972750585" />
+    <state width="234" height="457" key="HiddenNamespacesPopup" timestamp="1584621027824">
+      <screen x="0" y="23" width="1280" height="735" />
+    </state>
+    <state width="234" height="457" key="HiddenNamespacesPopup/0.23.1280.735@0.23.1280.735" timestamp="1584621027824" />
+    <state x="320" y="23" width="900" height="722" key="SettingsEditor" timestamp="1584972660836">
+      <screen x="0" y="23" width="1280" height="735" />
+    </state>
+    <state x="320" y="23" width="900" height="722" key="SettingsEditor/0.23.1280.735@0.23.1280.735" timestamp="1584972660836" />
+    <state x="270" y="135" key="Vcs.Push.Dialog.v2" timestamp="1584973603401">
+      <screen x="0" y="23" width="1280" height="735" />
+    </state>
+    <state x="270" y="135" key="Vcs.Push.Dialog.v2/0.23.1280.735@0.23.1280.735" timestamp="1584973603401" />
+    <state x="236" y="67" key="com.intellij.database.dbimport.ImportDialog" timestamp="1584626479765">
+      <screen x="0" y="23" width="1280" height="735" />
+    </state>
+    <state x="236" y="67" key="com.intellij.database.dbimport.ImportDialog/0.23.1280.735@0.23.1280.735" timestamp="1584626479765" />
+    <state x="160" y="139" width="1020" height="509" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1584436832166">
+      <screen x="0" y="23" width="1280" height="735" />
+    </state>
+    <state x="160" y="139" width="1020" height="509" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.23.1280.735@0.23.1280.735" timestamp="1584436832166" />
+    <state x="160" y="139" width="1020" height="509" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1584610117126">
+      <screen x="0" y="23" width="1280" height="735" />
+    </state>
+    <state x="160" y="139" width="1020" height="509" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1280.735@0.23.1280.735" timestamp="1584610117126" />
+    <state x="160" y="139" width="1020" height="509" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1584610117126">
+      <screen x="0" y="23" width="1280" height="735" />
+    </state>
+    <state x="160" y="139" width="1020" height="509" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.23.1280.735@0.23.1280.735" timestamp="1584610117126" />
+    <state x="114" y="244" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584972296574">
+      <screen x="0" y="23" width="1280" height="735" />
+    </state>
+    <state x="114" y="244" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1280.735@0.23.1280.735" timestamp="1584972296574" />
+    <state x="412" y="276" key="git4idea.rebase.GitRebaseDialog" timestamp="1584972562806">
+      <screen x="0" y="23" width="1280" height="735" />
+    </state>
+    <state x="412" y="276" key="git4idea.rebase.GitRebaseDialog/0.23.1280.735@0.23.1280.735" timestamp="1584972562806" />
+    <state x="305" y="82" width="670" height="676" key="search.everywhere.popup" timestamp="1584957149996">
+      <screen x="0" y="23" width="1280" height="735" />
+    </state>
+    <state x="305" y="82" width="670" height="676" key="search.everywhere.popup/0.23.1280.735@0.23.1280.735" timestamp="1584957149996" />
+    <state x="412" y="299" key="svn.passwordDialog" timestamp="1584971707551">
+      <screen x="0" y="23" width="1280" height="735" />
+    </state>
+    <state x="412" y="299" key="svn.passwordDialog/0.23.1280.735@0.23.1280.735" timestamp="1584971707551" />
+    <state x="508" y="193" key="svn.repositoryBrowser" timestamp="1584971900755">
+      <screen x="0" y="23" width="1280" height="735" />
+    </state>
+    <state x="508" y="193" key="svn.repositoryBrowser/0.23.1280.735@0.23.1280.735" timestamp="1584971900755" />
+    <state x="429" y="180" key="svn4idea.import.options" timestamp="1584971652042">
+      <screen x="0" y="23" width="1280" height="735" />
+    </state>
+    <state x="429" y="180" key="svn4idea.import.options/0.23.1280.735@0.23.1280.735" timestamp="1584971652042" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/learning_log$admin.coverage" NAME="admin Coverage Results" MODIFIED="1576423746113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learning_logs" />
+  </component>
+</project>
