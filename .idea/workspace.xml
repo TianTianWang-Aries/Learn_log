@@ -1,18 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="efa3666c-2857-4bed-8dbf-3c5657bf7328" name="Default Changelist" comment="实现网页的基本功能">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/6eb5f560-7e67-464e-a64a-1da1c8278506.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/6eb5f560-7e67-464e-a64a-1da1c8278506/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/b458019d-fe2d-47a6-ab6a-6f146d910b24.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/learning_log.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="efa3666c-2857-4bed-8dbf-3c5657bf7328" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -199,7 +189,7 @@
       <workItem from="1584623184740" duration="5701000" />
       <workItem from="1584669753121" duration="13533000" />
       <workItem from="1584942649190" duration="14653000" />
-      <workItem from="1584972969315" duration="547000" />
+      <workItem from="1584972969315" duration="792000" />
     </task>
     <task id="LOCAL-00001" summary="...">
       <created>1584437614214</created>
@@ -236,7 +226,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584972466915</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="实现网页的基本功能">
+      <created>1584973714158</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1584973714158</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -309,10 +306,10 @@
       <screen x="0" y="23" width="1280" height="735" />
     </state>
     <state x="335" y="23" width="669" height="735" key="#learning_log/0.23.1280.735@0.23.1280.735" timestamp="1584616848687" />
-    <state x="262" y="23" key="CommitChangelistDialog2" timestamp="1584973323378">
+    <state x="262" y="23" key="CommitChangelistDialog2" timestamp="1584973713792">
       <screen x="0" y="23" width="1280" height="735" />
     </state>
-    <state x="262" y="23" key="CommitChangelistDialog2/0.23.1280.735@0.23.1280.735" timestamp="1584973323378" />
+    <state x="262" y="23" key="CommitChangelistDialog2/0.23.1280.735@0.23.1280.735" timestamp="1584973713792" />
     <state x="525" y="155" key="EnvironmentVariablesDialog" timestamp="1584616786044">
       <screen x="0" y="23" width="1280" height="735" />
     </state>
