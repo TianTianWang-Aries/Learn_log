@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="efa3666c-2857-4bed-8dbf-3c5657bf7328" name="Default Changelist" comment="">
+    <list default="true" id="efa3666c-2857-4bed-8dbf-3c5657bf7328" name="Default Changelist" comment="实现网页的基本功能">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning_log/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/learning_log/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning_logs" beforeDir="false" afterPath="$PROJECT_DIR$/learning_logs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +28,17 @@
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
         <item name="learn_log@localhost" type="feb32156:DbDataSourceImpl" />
       </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="learn_log@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="learn_log@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="learn_log: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
     </expand>
     <select />
   </component>
@@ -43,14 +57,17 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/learning_logs" />
-    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="ADD_SUFFIX_TO_CHERRY_PICKS_OF_PUBLISHED_COMMITS" value="false" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GithubPullRequestsUISettings">
     <option name="hiddenUrls">
       <set>
+        <option value="https://github.com/TianTianWang-Aries/Learn.git" />
         <option value="https://github.com/TianTianWang-Aries/Learning_log.git" />
+        <option value="https://github.com/TianTianWang-Aries/learn_log.git" />
       </set>
     </option>
   </component>
@@ -69,6 +86,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="sqlite&#10;mysql" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -76,7 +94,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -190,6 +208,17 @@
       <workItem from="1584669753121" duration="13533000" />
       <workItem from="1584942649190" duration="14653000" />
       <workItem from="1584972969315" duration="792000" />
+      <workItem from="1584973767794" duration="367000" />
+      <workItem from="1584975824196" duration="2951000" />
+      <workItem from="1585032805579" duration="9997000" />
+      <workItem from="1585102580429" duration="964000" />
+      <workItem from="1585118318966" duration="5558000" />
+      <workItem from="1587396891630" duration="2565000" />
+      <workItem from="1587455653863" duration="529000" />
+      <workItem from="1587536587988" duration="3765000" />
+      <workItem from="1587628736229" duration="3280000" />
+      <workItem from="1587738829753" duration="1019000" />
+      <workItem from="1588054339240" duration="10630000" />
     </task>
     <task id="LOCAL-00001" summary="...">
       <created>1584437614214</created>
@@ -233,7 +262,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584973714158</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="实现网页的基本功能">
+      <created>1584973931032</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1584973931032</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -276,16 +312,14 @@
         </entry>
       </map>
     </option>
-    <option name="OPEN_TABS">
-      <set>
-        <option value="1" />
-      </set>
-    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$/learning_log" />
       <path value="$PROJECT_DIR$/learning_log/learning_logs" />
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/L_log" />
+      <path value="$PROJECT_DIR$/learning_logs" />
     </ignored-roots>
     <MESSAGE value="..." />
     <MESSAGE value="11" />
@@ -306,10 +340,10 @@
       <screen x="0" y="23" width="1280" height="735" />
     </state>
     <state x="335" y="23" width="669" height="735" key="#learning_log/0.23.1280.735@0.23.1280.735" timestamp="1584616848687" />
-    <state x="262" y="23" key="CommitChangelistDialog2" timestamp="1584973713792">
+    <state x="262" y="23" key="CommitChangelistDialog2" timestamp="1587398217078">
       <screen x="0" y="23" width="1280" height="735" />
     </state>
-    <state x="262" y="23" key="CommitChangelistDialog2/0.23.1280.735@0.23.1280.735" timestamp="1584973713792" />
+    <state x="262" y="23" key="CommitChangelistDialog2/0.23.1280.735@0.23.1280.735" timestamp="1587398217078" />
     <state x="525" y="155" key="EnvironmentVariablesDialog" timestamp="1584616786044">
       <screen x="0" y="23" width="1280" height="735" />
     </state>
@@ -318,38 +352,38 @@
       <screen x="0" y="23" width="1280" height="735" />
     </state>
     <state x="477" y="317" key="Github.CreateGistDialog/0.23.1280.735@0.23.1280.735" timestamp="1584972610912" />
-    <state x="534" y="298" width="271" height="281" key="Github.ShareDialog" timestamp="1584973161331">
+    <state x="534" y="298" width="271" height="281" key="Github.ShareDialog" timestamp="1585033221467">
       <screen x="0" y="23" width="1280" height="735" />
     </state>
-    <state x="534" y="298" width="271" height="281" key="Github.ShareDialog/0.23.1280.735@0.23.1280.735" timestamp="1584973161331" />
-    <state width="1201" height="135" key="GridCell.Tab.0.bottom" timestamp="1584972750586">
+    <state x="534" y="298" width="271" height="281" key="Github.ShareDialog/0.23.1280.735@0.23.1280.735" timestamp="1585033221467" />
+    <state width="738" height="133" key="GridCell.Tab.0.bottom" timestamp="1588090739698">
       <screen x="0" y="23" width="1280" height="735" />
     </state>
-    <state width="1201" height="135" key="GridCell.Tab.0.bottom/0.23.1280.735@0.23.1280.735" timestamp="1584972750586" />
-    <state width="1201" height="135" key="GridCell.Tab.0.center" timestamp="1584972750585">
+    <state width="738" height="133" key="GridCell.Tab.0.bottom/0.23.1280.735@0.23.1280.735" timestamp="1588090739698" />
+    <state width="738" height="133" key="GridCell.Tab.0.center" timestamp="1588090739697">
       <screen x="0" y="23" width="1280" height="735" />
     </state>
-    <state width="1201" height="135" key="GridCell.Tab.0.center/0.23.1280.735@0.23.1280.735" timestamp="1584972750585" />
-    <state width="1201" height="135" key="GridCell.Tab.0.left" timestamp="1584972750584">
+    <state width="738" height="133" key="GridCell.Tab.0.center/0.23.1280.735@0.23.1280.735" timestamp="1588090739697" />
+    <state width="738" height="133" key="GridCell.Tab.0.left" timestamp="1588090739696">
       <screen x="0" y="23" width="1280" height="735" />
     </state>
-    <state width="1201" height="135" key="GridCell.Tab.0.left/0.23.1280.735@0.23.1280.735" timestamp="1584972750584" />
-    <state width="1201" height="135" key="GridCell.Tab.0.right" timestamp="1584972750585">
+    <state width="738" height="133" key="GridCell.Tab.0.left/0.23.1280.735@0.23.1280.735" timestamp="1588090739696" />
+    <state width="738" height="133" key="GridCell.Tab.0.right" timestamp="1588090739697">
       <screen x="0" y="23" width="1280" height="735" />
     </state>
-    <state width="1201" height="135" key="GridCell.Tab.0.right/0.23.1280.735@0.23.1280.735" timestamp="1584972750585" />
+    <state width="738" height="133" key="GridCell.Tab.0.right/0.23.1280.735@0.23.1280.735" timestamp="1588090739697" />
     <state width="234" height="457" key="HiddenNamespacesPopup" timestamp="1584621027824">
       <screen x="0" y="23" width="1280" height="735" />
     </state>
     <state width="234" height="457" key="HiddenNamespacesPopup/0.23.1280.735@0.23.1280.735" timestamp="1584621027824" />
-    <state x="320" y="23" width="900" height="722" key="SettingsEditor" timestamp="1584972660836">
+    <state x="180" y="25" width="900" height="722" key="SettingsEditor" timestamp="1588087486417">
       <screen x="0" y="23" width="1280" height="735" />
     </state>
-    <state x="320" y="23" width="900" height="722" key="SettingsEditor/0.23.1280.735@0.23.1280.735" timestamp="1584972660836" />
-    <state x="270" y="135" key="Vcs.Push.Dialog.v2" timestamp="1584973603401">
+    <state x="180" y="25" width="900" height="722" key="SettingsEditor/0.23.1280.735@0.23.1280.735" timestamp="1588087486417" />
+    <state x="270" y="135" key="Vcs.Push.Dialog.v2" timestamp="1587398233416">
       <screen x="0" y="23" width="1280" height="735" />
     </state>
-    <state x="270" y="135" key="Vcs.Push.Dialog.v2/0.23.1280.735@0.23.1280.735" timestamp="1584973603401" />
+    <state x="270" y="135" key="Vcs.Push.Dialog.v2/0.23.1280.735@0.23.1280.735" timestamp="1587398233416" />
     <state x="236" y="67" key="com.intellij.database.dbimport.ImportDialog" timestamp="1584626479765">
       <screen x="0" y="23" width="1280" height="735" />
     </state>
@@ -393,5 +427,9 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/learning_log$admin.coverage" NAME="admin Coverage Results" MODIFIED="1576423746113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learning_logs" />
+  </component>
+  <component name="hg4idea.settings">
+    <option name="CHECK_INCOMING_OUTGOING" value="true" />
+    <option name="RECENT_HG_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
 </project>
